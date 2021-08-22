@@ -1,0 +1,38 @@
+{
+  "users": {
+    "id": 1,
+    "username": "khushbu singh",
+    "firstName": "khshbu",
+    "lastName": "singh",
+    "email": "khushbuv84@gmail.com",
+    "isAdmin": true,
+    "twoots": [
+      {
+        "id": 1,
+        "content": "Twotter is amzing!"
+      },
+      {
+        "id": 2,
+        "content": "keep posting!"
+      }
+    ]
+  },
+  "users": {
+    "id": 2,
+    "username": "Amit Verma",
+    "firstName": "khshbu",
+    "lastName": "singh",
+    "email": "amiacs@gmail.com",
+    "isAdmin": true,
+    "twoots": null
+  },
+  "users": {
+    "id": 3,
+    "username": "Veda Singh",
+    "firstName": "veda",
+    "lastName": "singh",
+    "email": "veda2511@gmail.com",
+    "isAdmin": true,
+    "twoots": null
+  }
+}
